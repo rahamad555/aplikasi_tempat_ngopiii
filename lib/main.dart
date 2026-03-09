@@ -1,7 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 import 'page/list_page.dart';
 
-void main() {
+Future<void> main() async {
+
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await Supabase.initialize(
+    url: 'https://crcgillhflubgnwwvioz.supabase.co',
+    anonKey:'sb_publishable_1tECfgV9ZZ1Uq23X8f0t6A_X9QtoeKf',
+  );
+
   runApp(const MyApp());
 }
 
@@ -10,15 +19,8 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Aplikasi Tempat Ngopi',
-      theme: ThemeData(
-        useMaterial3: true,
-        colorSchemeSeed: Colors.brown,
-        scaffoldBackgroundColor: const Color(0xFFF6F1EB),
-      ),
-      home: const ListPage(),
+    return const MaterialApp(
+      home: ListPage(),
     );
   }
 }
