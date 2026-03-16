@@ -163,3 +163,14 @@ Setelah tombol Simpan ditekan, data tempat ngopi tersimpan dan aplikasi kembali 
 
 
 Untuk tampilan akhirnya, setelah user menghapus seluruh data yang tersimpan, halaman utama aplikasi kembali menampilkan kondisi awal tanpa data. Halaman utama kembali menampilkan pesan “Belum ada tempat ngopi” yang menandakan tidak ada data tersimpan. Tombol tambah (+) tetap tersedia sehingga user dapat menambahkan data  baru kembali.
+
+
+
+# Supabase
+
+
+
+
+
+
+
