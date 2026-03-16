@@ -174,3 +174,10 @@ Untuk tampilan akhirnya, setelah user menghapus seluruh data yang tersimpan, hal
 
 
 
+
+
+
+
+
+
+Aplikasi Tempat Ngopi menggunakan Supabase sebagai database untuk menyimpan data tempat ngopi. Data yang dimasukkan melalui aplikasi Flutter akan langsung tersimpan di database dan dapat ditampilkan kembali di aplikasi. Database yang digunakan memiliki tabel bernama tempat_ngopi dengan beberapa kolom yaitu id sebagai identitas unik data, nama untuk nama tempat ngopi, lokasi untuk lokasi tempat ngopi, dan catatan untuk memberikan deskripsi atau komentar tentang tempat tersebut. Melalui database ini, aplikasi dapat melakukan penyimpanan data, menampilkan daftar tempat ngopi, mengedit data yang sudah ada, serta menghapus data. Dengan menggunakan Supabase, semua data pada aplikasi dapat dikelola secara online dan terhubung langsung dengan aplikasi Flutter.
