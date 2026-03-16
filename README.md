@@ -2,7 +2,7 @@
 Rahmad Ramadhan | 2409116018 | Sistem Informasi A 2024
 
 
-🧾 Deskripsi Aplikasi
+# 🧾 Deskripsi Aplikasi
 
 Aplikasi Tempat Ngopi adalah aplikasi mobile berbasis Flutter yang digunakan untuk mencatat dan mengelola data tempat ngopi seperti nama tempat, lokasi, dan catatan. Aplikasi ini dirancang dengan tampilan modern dan sederhana agar mudah digunakan.
 
@@ -10,7 +10,7 @@ Pengguna dapat menambahkan data tempat ngopi baru, melihat daftar tempat yang te
 
 
 
-🚀 Fitur Aplikasi
+# 🚀 Fitur Aplikasi
 
 Aplikasi ini memiliki fitur sebagai berikut:
 
@@ -28,7 +28,7 @@ Menghapus data tempat ngopi dari daftar.
 
 
 
-Widget yang Digunakan
+# Widget yang Digunakan
 
 MaterialApp
 
@@ -67,7 +67,7 @@ SizedBox
 
 
 
-👥 Pengguna Target
+# 👥 Pengguna Target
 
 Aplikasi ini ditujukan untuk:
 
