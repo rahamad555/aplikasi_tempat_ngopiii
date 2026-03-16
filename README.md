@@ -1,4 +1,4 @@
-# Mini-Project-1-Pemrograman-Aplikasi-Bergerak
+# Mini-Project-2-Pemrograman-Aplikasi-Bergerak
 Rahmad Ramadhan | 2409116018 | Sistem Informasi A 2024
 
 
