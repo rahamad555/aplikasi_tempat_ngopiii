@@ -97,6 +97,8 @@ Dart
 
 Visual Studio Code sebagai code
 
+Supabase Database
+
 
 # Tampilan Awal
 
